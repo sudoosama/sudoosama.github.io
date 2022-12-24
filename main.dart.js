@@ -39923,7 +39923,7 @@ r=s.z
 return A.a9(q,A.cr(A.a([A.alY(40,r),new A.cL(1,q),A.hd(!1,!0,A.a0T(B.BY,r,30),q,!0,q,q,q,q,q,q,q,q,q,s.r,q,q,q,q)],t.p),B.u,B.n,B.p,q),B.h,q,q,q,q,q,q,q,B.BC,q,q,p.a.a)}else return s.abP(a)},
 $S:61}
 A.a3b.prototype={
-$0(){A.fB("assets/documents/HASSAN_OSAMA_CV.pdf")},
+$0(){A.fB("assets/assets/images/HASSAN_OSAMA_CV.pdf")},
 $S:0}
 A.a39.prototype={
 $0(){this.a.Q.$1(this.b[this.c].b)},
